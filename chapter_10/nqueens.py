@@ -32,4 +32,5 @@ def rQueens(board, current, size):
         return False
 
 
-nQueens(20)
+if __name__ == '__main__':
+    nQueens(5)
