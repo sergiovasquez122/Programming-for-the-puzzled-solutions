@@ -44,3 +44,4 @@ def rQueens(board, current, size):
 
 if __name__ == '__main__':
     print(pretty_printer(8))
+    print(pretty_printer(20))
